@@ -1,0 +1,6 @@
+LICENSE
+README.md
+challenge_files
+files.txt
+nix_scavenger_hunt.md
+nix_scavenger_hunt_stretch.md
